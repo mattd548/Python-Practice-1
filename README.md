@@ -1,1 +1,1 @@
-# Python-Practice-1
+# First couple of exercises learning python 
